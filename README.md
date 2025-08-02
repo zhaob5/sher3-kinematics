@@ -10,3 +10,5 @@ Recommended reading order:
 2. **Kinematics of the Roll-Tilt Mechanism in SHER-3.0** – breakdown of the four-bar linkage structure.
 
 3. **Kinematics and Jacobian Analysis of SHER-3.0** – full system modeling and differential kinematics.
+
+4. **Closed-Form Jacobian Inverse Derivation for SHER-3.0** - derivation of the Jacobian Inverse with physical intuition.
