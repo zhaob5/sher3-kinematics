@@ -12,3 +12,14 @@ Recommended reading order:
 3. **[Kinematics and Jacobian Analysis of SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20and%20Jacobian%20Analysis%20of%20SHER-3.0.pdf)** – full system modeling and differential kinematics.
 
 4. **[Closed-Form Jacobian Inverse Derivation for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Closed-Form%20Jacobian%20Inverse%20Derivation%20for%20SHER-3.0.pdf)** - derivation of the Jacobian Inverse with physical intuition.
+
+## License
+
+Copyright © 2025 JHU LCSR. Developed by [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/).  
+See the [LICENSE](./LICENSE) file for details.
+
+## Disclaimer
+
+The derivation and analysis presented in this repository are based on analytical methods applied to a custom-designed robotic system. Readers are strongly encouraged to focus on the **methodology and reasoning** behind the derivations rather than relying solely on the final equations.
+
+**Please independently verify all results before applying them to any critical or safety-sensitive applications.** This work is provided “as is” without warranty of any kind.
