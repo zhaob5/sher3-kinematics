@@ -1,11 +1,10 @@
-# sher3-kinematics
-## SHER-3.0 Kinematics and Jacobian Analysis
+# SHER-3.0 Kinematics and Jacobian Analysis
 
-This repository contains detailed derivations and explanations of the forward kinematics, inverse kinematics, Jacobian, and pseudo-inverse Jacobian analysis for the SHER-3.0 surgical robot. It includes analytical computation results in Python, validation through SolidWorks motion simulation, and detailed documentation for future insights and reference.
+This repository contains detailed derivations and explanations of the **forward kinematics**, **inverse kinematics**, **Jacobian**, and **Jacobian Inverse** analysis for the **SHER-3.0 surgical robot**. It includes analytical computation results in Python, validation through SolidWorks motion simulation, and detailed documentation for future insights and reference.
 
 ![](https://github.com/zhaob5/sher3-kinematics/blob/main/Figures/SHER-3.0.png)
 
-Recommended reading order:
+## Recommended reading order:
 
 1. **[Kinematics of a 3-PUU Delta-Style Parallel Robot](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20a%203-PUU%20Delta-Style%20Parallel%20Robot.pdf)** – foundational understanding of the delta platform.
 
@@ -17,7 +16,8 @@ Recommended reading order:
 
 ## License
 
-Copyright © 2025 JHU LCSR. Developed by [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/).  
+Copyright © 2025 JHU LCSR. Developed by [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/).
+
 See the [LICENSE](./LICENSE) file for details.
 
 ## Disclaimer
