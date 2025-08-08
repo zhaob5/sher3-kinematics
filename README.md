@@ -3,7 +3,6 @@
 This repository contains detailed derivations and explanations of the **forward kinematics**, **inverse kinematics**, **Jacobian**, and **Jacobian Inverse** analysis for the **SHER-3.0 surgical robot**. It includes analytical computation results in Python, validation through SolidWorks motion simulation, and detailed documentation for future insights and reference.
 
 ![](https://github.com/zhaob5/sher3-kinematics/blob/main/Figures/SHER-3.0.png)
-![](https://github.com/zhaob5/sher3-kinematics/blob/main/Figures/SW_analysis.png)
 
 ## Recommended reading order:
 
