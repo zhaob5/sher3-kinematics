@@ -18,7 +18,7 @@ This repository contains detailed derivations and explanations of the **forward 
 
 ## License
 
-Copyright © 2025 JHU LCSR. Developed by [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/).
+Copyright © 2025 JHU LCSR. Developed by Botao Zhao for [AMIRo Research Lab](https://amiro.lcsr.jhu.edu/).
 
 See the [LICENSE](./LICENSE) file for details.
 
