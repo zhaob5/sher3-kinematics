@@ -9,10 +9,12 @@ This repository contains detailed derivations and explanations of the **forward 
 1. **[Kinematics of a 3-PUU Delta-Style Parallel Robot](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20a%203-PUU%20Delta-Style%20Parallel%20Robot.pdf)** – foundational understanding of the delta platform.
 
 2. **[Kinematics of the Roll-Tilt Mechanism in SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20the%20Roll-Tilt%20Mechanism%20in%20SHER-3.0.pdf)** – breakdown of the rotating four-bar linkage structure.
+   
+3. **[(Optional) SOLIDWORKS Motion Study Tutorial: Setup and Kinematic Analysis for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20the%20Roll-Tilt%20Mechanism%20in%20SHER-3.0.pdf)** - a quick-start reference for running motion simulation in SOLIDWORKS.
 
-3. **[Kinematics and Jacobian Analysis of SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20and%20Jacobian%20Analysis%20of%20SHER-3.0.pdf)** – full system modeling and differential kinematics.
+4. **[Kinematics and Jacobian Analysis of SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20and%20Jacobian%20Analysis%20of%20SHER-3.0.pdf)** – full system modeling and differential kinematics.
 
-4. **[Closed-Form Jacobian Inverse Derivation for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Closed-Form%20Jacobian%20Inverse%20Derivation%20for%20SHER-3.0.pdf)** - derivation of the Jacobian Inverse with physical intuition.
+5. **[Closed-Form Jacobian Inverse Derivation for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Closed-Form%20Jacobian%20Inverse%20Derivation%20for%20SHER-3.0.pdf)** - derivation of the Jacobian Inverse with physical intuition.
 
 ## License
 
