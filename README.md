@@ -10,7 +10,7 @@ This repository contains detailed derivations and explanations of the **forward 
 
 2. **[Kinematics of the Roll-Tilt Mechanism in SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20the%20Roll-Tilt%20Mechanism%20in%20SHER-3.0.pdf)** – breakdown of the rotating four-bar linkage structure.
    
-3. **[(Optional) SOLIDWORKS Motion Study Tutorial: Setup and Kinematic Analysis for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20of%20the%20Roll-Tilt%20Mechanism%20in%20SHER-3.0.pdf)** - a quick-start reference for running motion simulation in SOLIDWORKS.
+3. **[(Optional) SOLIDWORKS Motion Study Tutorial: Setup and Kinematic Analysis for SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/SOLIDWORKS%20Motion%20Study%20Tutorial%20Setup%20and%20Kinematic%20Analysis%20for%20SHER-3.0.pdf)** - a quick-start reference for running motion simulation in SOLIDWORKS.
 
 4. **[Kinematics and Jacobian Analysis of SHER-3.0](https://github.com/zhaob5/sher3-kinematics/blob/main/Kinematics%20and%20Jacobian%20Analysis%20of%20SHER-3.0.pdf)** – full system modeling and differential kinematics.
 
